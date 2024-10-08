@@ -2,7 +2,7 @@
 title: "Graph Anomaly Detection with Diffusion Model-Based Graph Enhancement (Student Abstract)"
 collection: publications
 category: conferences
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-03-24 -Graph Anomaly Detection with Diffusion Model-Based Graph Enhancement (Student Abstract)
 excerpt: 'Graph anomaly detection has gained significant research interest across various domains. Due to the lack of labeled data, contrastive learning has been applied in detecting anomalies and various scales of contrastive strategies have been initiated. However, these methods might force two instances (e.g., node-level and subgraph-level representations) with different category labels to be consistent during model training, which can adversely impact the model robustness. To tackle this problem, we present a novel contrastive learning framework with the Diffusion model-based graph Enhancement module for Graph Anomaly Detection, DEGAD. In this framework, we design a diffusion model-based graph enhancement module to manipulate neighbors to generate enhanced graphs, which can efficiently alleviate the inconsistent problem. Further, based on the enhanced graphs, we present a multi-scale contrastive module to discriminate anomalies. Experimental results demonstrate the superiority of our model.'
 date: 2024-03-24
 venue: 'Proceedings of the AAAI Conference on Artificial Intelligence'
