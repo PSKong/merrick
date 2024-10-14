@@ -83,12 +83,15 @@ Hello, my name is Shikang Pang, a master's graduate in Computer Science and Tech
 ### Skills
 
 **Programming Language**
+
 I often program using Java and Python. I also have experiences in programming using Scala, C++, MATLAB, JavaScript and have done at least one large project for each of them.
 
 **Machine Learning and Deep Learning**
+
 Natural Language Processing, Graph Neural Networks, Computer Vision, Statistical Methods, Optimization Methods.
 
 **Office Suites**
+
 I am very proficient in writing LaTeX and Markdown.
 
 ---
