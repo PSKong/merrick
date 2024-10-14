@@ -17,7 +17,7 @@ redirect_from:
 ---
 
 ### Summary
-Hello, my name is shikangpang@hotmail.com, a master's graduate in Computer Science and Technology from Henan University. Currently, I am a Software Development Engineer at Xiaomi, focusing on applying large models to code assistance. I am passionate about solving complex problems through technology and have extensive experience in full-stack development and large language models. During my studies, I specialized in graph anomaly detection, publishing four research papers, and I have also co-founded two startups, gaining valuable project and management experience.
+Hello, my name is Shikang Pang, a master's graduate in Computer Science and Technology from Henan University. Currently, I am a Software Development Engineer at Xiaomi, focusing on applying large language models to code assistance. I am passionate about solving complex problems through technology and have extensive experience in full-stack development and large language models. During my studies, I specialized in graph anomaly detection, and I have also co-founded two startups, gaining valuable project and management experience.
 
 ---
 
@@ -93,4 +93,4 @@ I am very proficient in writing LaTeX and Markdown.
 ---
 
 ### Personal Statement
-I am an engineer passionate about challenges and continuous growth, with a strong ability to learn and collaborate. My work at Xiaomi and entrepreneurial ventures have provided me with extensive project development and management expertise, and I remain committed to technical excellence. My current research focuses on large models and algorithmic advancements. I am active in the open-source community and hope to contribute to technological innovation, creating value for the company and society.
+I am an engineer passionate about challenges and continuous growth, with a strong ability to learn and collaborate. I used to enjoy exploring a variety of interests, but recently I have found an ideal I want to pursue—conducting research in psychology and contributing to the field of psychology.  My work at Xiaomi and entrepreneurial ventures have provided me with extensive project development and management expertise, and I remain committed to technical excellence. My current research focuses on large language models and algorithmic advancements. I am active in the open-source community and hope to contribute to technological innovation, creating value for the company and society.
